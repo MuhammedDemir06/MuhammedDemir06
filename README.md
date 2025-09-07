@@ -1,5 +1,3 @@
- ![MasterHead](https://github.com/MuhammedDemir06/MuhammedDemir06/blob/main/Logo.PNG)
-
 <h1 align="center">Hi 👋, I'm Muhammed Demir</h1>
 <h3 align="center">A passionate Game developer from Türkiye</h3>
 
