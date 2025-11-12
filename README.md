@@ -3,9 +3,8 @@
 <p align="left">
   🎮 Game Developer<br>
   🌱 Unity & C#<br>
-  👥 Open for collaboration<br>
   ✉️ muhammed.demir3406@gmail.com<br>
-  ⚡ <b><i>Let's Do Together Something</i></b>
+  ⚡ <b><i>We can change the world</i></b>
 </p>
 
 ---
