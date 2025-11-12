@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Demir</h1>
 <h3 align="center">🎮 A passionate Game Developer from Türkiye</h3>
 
-🌱 I’m currently learning **Unity & C#**  
-👯 I’m looking to collaborate on **indie game projects**  
-📫 Reach me at **muhammed.demir3406@gmail.com**  
-⚡ Fun fact: *We can code the world.*
+🎮 Game Developer
+🌱 Unity & C#
+👥 Open for collaboration
+✉️ muhammed.demir3406@gmail.com
+⚡ ***Let's Do Together Something***
 
 ---
 
