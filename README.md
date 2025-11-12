@@ -27,7 +27,11 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,csharp,visualstudio,git,github" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
 ---
@@ -37,10 +41,10 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=muhammeddemir06&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeddemir06&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-  
+
   <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammeddemir06&theme=tokyonight" alt="GitHub Streak" />
+
+  <img src="https://github-readme-streak-stats.vercel.app/?user=muhammeddemir06&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -48,7 +52,7 @@
 ### ✨ About Me
 🎯 I love turning ideas into interactive worlds.  
 💡 Currently building indie games and learning advanced Unity editor tools.  
-🎥 Sharing progress and tutorials on my [YouTube channel]([https://www.youtube.com/@InverseMaple]).  
+🎥 Sharing progress and tutorials on my [YouTube channel](https://www.youtube.com/@issoeEnt).  
 
 ---
 
