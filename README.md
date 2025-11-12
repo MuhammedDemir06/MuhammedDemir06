@@ -19,8 +19,9 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   <a href="https://www.youtube.com/@InverseMaple" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="40" alt="YouTube"/>
-  </a>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" height="40" alt="YouTube"/>
+</a>
+
 </p>
 
 ---
