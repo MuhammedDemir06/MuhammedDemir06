@@ -14,7 +14,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-demir-945625311/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://instagram.com/muhammed.demir.0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-<a href="https://www.youtube.com/@InverseMaple" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
+<a href="https://www.youtube.com/@InverseMaple" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" height="40" alt="YouTube"/>
+</a>
+
 </p>
 
 ---
