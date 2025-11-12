@@ -19,7 +19,7 @@
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,csharp,git,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=unity,git,github,visualstudio" />
 </p>
 
 ---
