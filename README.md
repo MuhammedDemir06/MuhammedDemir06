@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Demir</h1>
 
-<p align="center">
+<p align="left">
   🎮 Game Developer<br>
   🌱 Unity & C#<br>
   👥 Open for collaboration<br>
