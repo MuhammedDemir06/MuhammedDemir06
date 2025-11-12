@@ -8,7 +8,7 @@
   ⚡ <b><i>Let's Do Together Something</i></b>
 </p>
 
----
+
 
 ### 🌐 Connect with me:
 <p align="left" style="margin:0; line-height:1;">
@@ -24,7 +24,7 @@
 </p>
 
 
----
+
 
 ### 🧰 Languages & Tools
 <p align="left">
