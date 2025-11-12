@@ -11,17 +11,18 @@
 ---
 
 ### 🌐 Connect with me:
-<div align="left">
+<p align="left" style="margin:0; line-height:1;">
   <a href="https://www.linkedin.com/in/muhammed-demir-945625311/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://instagram.com/muhammed.demir.0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="vertical-align: middle; margin-right: 10px;" />
   </a>
   <a href="https://www.youtube.com/@InverseMaple" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" height="40" alt="YouTube"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" height="40" alt="YouTube" style="vertical-align: middle;" />
   </a>
-</div>
+</p>
+
 
 ---
 
