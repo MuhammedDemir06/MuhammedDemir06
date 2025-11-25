@@ -35,6 +35,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammeddemir06&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammeddemir06&show_icons=true&theme=tokyonight&token=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" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeddemir06&layout=compact&theme=tokyonight" />
 </p>
