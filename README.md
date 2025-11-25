@@ -37,6 +37,6 @@
 </p>
 
 ### 📊 GitHub Stats 
-<p align="center"> 
+<p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeddemir06&layout=compact&theme=tokyonight" /> 
 </p>
