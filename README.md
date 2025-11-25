@@ -22,8 +22,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ### 🧰 Languages & Tools
@@ -33,13 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=muhammeddemir06&show_icons=true&theme=tokyonight" />
+### ⭐ GitHub Stars
+<p align="left">
+  <img src="https://img.shields.io/github/stars/muhammeddemir06?style=for-the-badge&color=yellow" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammeddemir06&layout=compact&theme=tokyonight" />
-</p>
-
-
