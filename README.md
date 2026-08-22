@@ -31,10 +31,7 @@
 
 ---
 
-### ⭐ GitHub Stars
-<p align="left">
-  <img src="https://img.shields.io/github/stars/muhammeddemir06/HyperStep?style=for-the-badge&color=yellow" />
-</p>
+### ⭐ GitHub Stars <p align="left"> <img src="https://img.shields.io/github/stars/muhammeddemir06?style=for-the-badge&color=yellow" /> </p>
 
 ### 📊 GitHub Stats 
 <p align="left"> 
