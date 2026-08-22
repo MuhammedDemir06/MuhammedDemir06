@@ -17,7 +17,7 @@
   <a href="https://instagram.com/muhammed.demir.0" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" style="vertical-align: middle; margin-right: 10px;" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@InverseMaple" target="_blank">
+  <a href="https://www.youtube.com/@professorr_r/videos" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" height="40" style="vertical-align: middle;" alt="YouTube"/>
   </a>
 </p>
