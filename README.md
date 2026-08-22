@@ -33,7 +33,7 @@
 
 ### ⭐ GitHub Stars
 <p align="left">
-  <img src="https://img.shields.io/github/stars/muhammeddemir06?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/endpoint?url=https://github-star-counter.vercel.app/api?username=muhammeddemir06&style=for-the-badge&label=GitHub%20Stars&color=yellow" />
 </p>
 
 ### 📊 GitHub Stats 
